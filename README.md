@@ -1,4 +1,4 @@
-# myayma.github.io
+# Hey Loser
 <!DOCTYPE html>
 <html lang="en">
 <head>
